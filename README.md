@@ -132,3 +132,27 @@ is **warranted**.
 
 As a more **concise** alternative, you can use a `for` loop and execute some code for each item in
 a collection.
+
+
+### constantly [ˈkɑːnstəntli]
+
+    adv. 不断地；时常地
+
+Some languages have garbage collection that **constantly** looks for no longer used memory as the
+program runs.
+
+
+### boilerplate [ˈbɔɪlərpleɪt]
+
+    n. 样板文件；引用
+
+As a result, our examples will be a bit more concise, letting us focus on the actual details rather
+than **boilerplate** code.
+
+
+### vulnerability [ˌvʌlnərəˈbɪləti]
+
+    n. 易损性；弱点
+
+Freeing memory twice can lead to memory corruption, which can potentially lead to security
+**vulnerabilities**.
