@@ -78,3 +78,36 @@ will be changing this variable’s value.
     n. 清楚，明晰；透明
 
 So lower performance might be a worthwhile **penalty** for gaining that **clarity**.
+
+
+### infer [ɪnˈfɜːr]
+
+    vi. 推断；作出推论
+    vt. 推断；推论
+
+The compiler can usually **infer** what type we want to use based on the value and how we use it.
+
+
+### pervasive [pərˈveɪsɪv]
+
+    adj. 普遍的；到处渗透的；流行的
+
+Functions are **pervasive** in Rust code.
+
+
+### concrete [ˈkɑːnkriːt]
+
+    n. 具体物；凝结物
+    adj. 混凝土的；实在的，具体的；有形的
+    vt. 使凝固；用混凝土修筑
+    vi. 凝结
+
+When a function has parameters, you can provide it with **concrete** values for those parameters.
+
+
+### deliberate [dɪˈlɪbərət]
+
+    adj. 故意的；深思熟虑的；从容的
+    vt. 仔细考虑；商议
+
+This is a **deliberate** decision in Rust’s design.
