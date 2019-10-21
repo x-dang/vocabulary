@@ -111,3 +111,24 @@ When a function has parameters, you can provide it with **concrete** values for 
     vt. 仔细考虑；商议
 
 This is a **deliberate** decision in Rust’s design.
+
+
+### strive [straɪv]; warrant [ˈwɔːrənt]
+
+    strive:
+    vi. 努力；奋斗；抗争
+
+    warrant:
+    n. 根据；证明；正当理由；委任状
+    vt. 保证；担保；批准；辩解
+
+All programmers **strive** to make their code easy to understand, but sometimes extra explanation
+is **warranted**.
+
+
+### concise [kənˈsaɪs]
+
+    adj. 简明的，简洁的
+
+As a more **concise** alternative, you can use a `for` loop and execute some code for each item in
+a collection.
