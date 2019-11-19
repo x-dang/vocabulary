@@ -156,3 +156,19 @@ than **boilerplate** code.
 
 Freeing memory twice can lead to memory corruption, which can potentially lead to security
 **vulnerabilities**.
+
+
+### scenario [səˈnærioʊ]
+
+    n. 方案；情节；剧本；设想
+
+The `Option` type is used in many places because it encodes the very common **scenario** in which a
+value could be something or it could be nothing
+
+
+### exhaustive [ɪɡˈzɔːstɪv]
+
+    adj. 详尽的；彻底的；消耗的
+
+Matches in Rust are **exhaustive**: we must exhaust every last possibility in order for the code to
+be valid.
